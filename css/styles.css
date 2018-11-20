@@ -1,0 +1,9 @@
+body {
+  background: white;
+  padding-top: 15px;
+}
+
+/* Padding for Book Now button */
+.justify-content-end{
+  padding-right: 15px;
+}
