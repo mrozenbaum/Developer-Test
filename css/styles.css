@@ -1,9 +1,1138 @@
-body {
-  background: white;
-  padding-top: 15px;
+.Layer_22 {
+  background-image: url("../images/Images Slides/Layer 22.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1680px;
+  height: 1889px;
+  z-index: 1;
 }
 
-/* Padding for Book Now button */
-.justify-content-end{
-  padding-right: 15px;
+
+/* ///////////////////////////////////
+/////BOOKING WIDGET STYLING /////////
+////////////////////////////////////*/
+
+
+/* LETS GO writing in button in Booking Form */
+.Let_s_go {
+  font-size: 24px;
+  font-family: "Interstate";
+  color: rgb(227, 31, 38);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 0.89;
+  text-align: left;
+  -moz-transform: matrix( 0.70648009539263,0,0,0.70648009539263,0,0);
+  -webkit-transform: matrix( 0.70648009539263,0,0,0.70648009539263,0,0);
+  -ms-transform: matrix( 0.70648009539263,0,0,0.70648009539263,0,0);
+  position: absolute;
+  left: 1465.887px;
+  top: 624.792px;
+  z-index: 105;
 }
+
+/* Border for LETS GO button in Booking Form */
+.Shape_2_copy_5 {
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(227, 31, 38);
+  background-color: rgba(226, 31, 37, 0);
+  position: absolute;
+  left: 1466px;
+  top: 616px;
+  width: 95px;
+  height: 35px;
+  z-index: 104;
+}
+
+/* Text in white box under Guests in Booking Form */
+._1_Child {
+  font-size: 12.351px;
+  font-family: "Interstate";
+  color: rgba(151, 159, 164, 0.902);
+  line-height: 1.524;
+  text-align: left;
+  -moz-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  -webkit-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  -ms-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  position: absolute;
+  left: 1545.16px;
+  top: 503.986px;
+  width: 34.814px;
+  height: 9.048px;
+  z-index: 103;
+}
+
+/* White box under Guests for Child in Booking Form */
+.Shape_11_copy_6 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1531px;
+  top: 473px;
+  width: 99px;
+  height: 37px;
+  z-index: 102;
+}
+
+/* Or book your group --> link on bottom of Booking Form */
+.or__book_your_group {
+  font-size: 13.234px;
+  font-family: "Gotham";
+  color: rgba(151, 159, 164, 0.902);
+  text-transform: uppercase;
+  line-height: 0.867;
+  text-align: center;
+  -moz-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  -webkit-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  -ms-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  position: absolute;
+  left: 1416.721px;
+  top: 733.921px;
+  width: 130.156px;
+  height: 9.932px;
+  z-index: 101;
+}
+
+/* GET READY text on bottom of Booking Form */
+.GET_READY__You_are_about_to__get_our_best_price {
+  font-size: 13.498px;
+  font-family: "ExpoSerifPro";
+  color: rgba(151, 159, 164, 0.902);
+  line-height: 0.85;
+  text-align: center;
+  -moz-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  -webkit-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  -ms-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  position: absolute;
+  left: 1370.589px;
+  top: 562.113px;
+  width: 180.251px;
+  height: 30.086px;
+  z-index: 100;
+}
+
+/* Text in white box under Guests in Booking Form */
+._1_Adult {
+  font-size: 12.351px;
+  font-family: "Interstate";
+  color: rgba(151, 159, 164, 0.902);
+  line-height: 1.524;
+  text-align: left;
+  -moz-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  -webkit-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  -ms-transform: matrix( 1.13347411874795,0,0,1.13347411874795,0,0);
+  position: absolute;
+  left: 1421.696px;
+  top: 503.943px;
+  width: 36.742px;
+  height: 8.961px;
+  z-index: 99;
+}
+
+/* White box under Guests for Adult in Booking Form */
+.Shape_11_copy_5 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1407px;
+  top: 473px;
+  width: 99px;
+  height: 37px;
+  z-index: 98;
+}
+
+/* Guests text in Booking Form */
+.Guests {
+  font-size: 13px;
+  font-family: "Gotham";
+  color: rgb(241, 242, 242);
+  text-transform: uppercase;
+  line-height: 1.646;
+  text-align: left;
+  -moz-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  -webkit-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  -ms-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  position: absolute;
+  left: 1415.939px;
+  top: 443.787px;
+  z-index: 97;
+}
+
+/* Departure date text in white box in Booking Form */
+.Sat__December_1 {
+  font-size: 12.351px;
+  font-family: "Interstate";
+  color: rgba(151, 159, 164, 0.902);
+  line-height: 1.524;
+  text-align: left;
+  -moz-transform: matrix( 1.13347411874795,0,0,1.13347411874796,0,0);
+  -webkit-transform: matrix( 1.13347411874795,0,0,1.13347411874796,0,0);
+  -ms-transform: matrix( 1.13347411874795,0,0,1.13347411874796,0,0);
+  position: absolute;
+  left: 1429.549px;
+  top: 409.029px;
+  width: 84.121px;
+  height: 9.962px;
+  z-index: 96;
+}
+
+/* White box with Departure Date text in Booking Form */
+.Shape_11_copy_4 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1407px;
+  top: 378px;
+  width: 223px;
+  height: 37px;
+  z-index: 94;
+}
+
+/* Departure date text in Booking Form above white box */
+.Departure_date {
+  font-size: 12px;
+  font-family: "Gotham";
+  color: rgb(241, 242, 242);
+  text-transform: uppercase;
+  line-height: 1.646;
+  text-align: left;
+  -moz-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  -webkit-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  -ms-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  position: absolute;
+  left: 1430.035px;
+  top: 348.787px;
+  z-index: 93;
+}
+
+/* Arrival date heading in Booking Form */
+.arrival_date {
+  font-size: 12px;
+  font-family: "Gotham";
+  color: rgb(241, 242, 242);
+  text-transform: uppercase;
+  line-height: 1.763;
+  text-align: left;
+  -moz-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  -webkit-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  -ms-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  position: absolute;
+  left: 1424.466px;
+  top: 254.289px;
+  z-index: 89;
+}
+
+/* Arrival date text inside white box in Booking Form */
+.Thurs__November_29 {
+  font-size: 12.351px;
+  font-family: "Interstate";
+  color: rgba(151, 159, 164, 0.902);
+  line-height: 1.524;
+  text-align: left;
+  -moz-transform: matrix( 1.13347411874795,0,0,1.13347411874796,0,0);
+  -webkit-transform: matrix( 1.13347411874795,0,0,1.13347411874796,0,0);
+  -ms-transform: matrix( 1.13347411874795,0,0,1.13347411874796,0,0);
+  position: absolute;
+  left: 1433.428px;
+  top: 314.029px;
+  width: 107.056px;
+  height: 9.962px;
+  z-index: 92;
+}
+
+/* White box under Arrival Date in Booking Form */
+.Shape_11_copy_3 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1407px;
+  top: 283px;
+  width: 223px;
+  height: 37px;
+  z-index: 90;
+}
+
+
+/* Book Now large heading in Booking Form */
+.book_now {
+  font-size: 24.383px;
+  font-family: "Tahoma";
+  color: rgb(241, 242, 242);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.25;
+  text-align: center;
+  -moz-transform: matrix( 1.64046555968215,0,0,1.64046555968215,0,0);
+  -webkit-transform: matrix( 1.64046555968215,0,0,1.64046555968215,0,0);
+  -ms-transform: matrix( 1.64046555968215,0,0,1.64046555968215,0,0);
+  position: absolute;
+  left: 1415.559px;
+  top: 198.924px;
+  width: 128.722px;
+  height: 18px;
+  z-index: 88;
+}
+
+/* Book Now text in Book Now tab to open Booking Form */
+.Book_Now_copy {
+  font-size: 20px;
+  font-family: "Interstate";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.063;
+  text-align: left;
+  -moz-transform: matrix( 0,-0.84361595837731,0.84361595837731,0,0,0);
+  -webkit-transform: matrix( 0,-0.84361595837731,0.84361595837731,0,0,0);
+  -ms-transform: matrix( 0,-0.84361595837731,0.84361595837731,0,0,0);
+  position: absolute;
+  left: 1278.829px;
+  top: 283.29px;
+  z-index: 86;
+}
+
+/* Black vertical box for Book Now tab to open Booking Form*/
+.Shape_2_copy_9 {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 1311px;
+  top: 241px;
+  width: 41px;
+  height: 105px;
+  z-index: 85;
+}
+
+/* Main black box shadowing styles? of Booking Form */
+.Shape_17 {
+  /*background-color: rgb(30, 30, 30);*/
+  background-color: red;
+  position: absolute;
+  left: 1351px;
+  top: 83px;
+  width: 328px;
+  height: 689px;
+  z-index: 84;
+}
+
+/* Main black box of Booking Form */
+.Shape_17_copy {
+  background-image: url("../images/Booking Widget/Shape 17 copy.png");
+  position: absolute;
+  /*left: 1322px;*/
+  top: 99px;
+  width: 356px;
+  height: 703px;
+  z-index: 83;
+}
+
+
+/* ///////////////////////////////////
+/////BOOK NOW BTN STYLING /////////
+////////////////////////////////////*/
+
+
+/* Book Now Btn styling */
+.Book_Now {
+  font-size: 20px;
+  font-family: "Gotham";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.063;
+  text-align: left;
+  -moz-transform: matrix( 0,-0.84361595837731,0.84361595837731,0,0,0);
+  -webkit-transform: matrix( 0,-0.84361595837731,0.84361595837731,0,0,0);
+  -ms-transform: matrix( 0,-0.84361595837731,0.84361595837731,0,0,0);
+  position: absolute;
+  left: 1616.235px;
+  top: 135.29px;
+  z-index: 79;
+}
+
+/* Book Now Btn styling */
+.Shape_2_copy_6 {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 1641px;
+  top: 83px;
+  width: 41px;
+  height: 125px;
+  z-index: 78;
+}
+
+
+/* ///////////////////////////////////
+/////////HEADER STYLING //////////////
+////////////////////////////////////*/
+
+
+/* Header text */
+.Portland__Maine {
+  font-size: 11px;
+  font-family: "Gotham";
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  line-height: 2.455;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  /*left: 362.937px;*/
+  /*top: 157.854px;*/
+  z-index: 75;
+}
+
+/* Large box styling for Heading */
+.Shape_23 {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.902;
+  position: absolute;
+  left: 301px;
+  top: 93px;
+  width: 1078px;
+  height: 105px;
+  z-index: 73;
+}
+
+
+/* ///////////////////////////////////
+/////////FOOTER STYLING //////////////
+////////////////////////////////////*/
+
+
+.contact-info {
+  font-size: 12px;
+  font-family: "Gotham";
+  color: rgb(0, 0, 0);
+  line-height: 2.25;
+  position: absolute;
+  left: 1013.937px;
+  top: 1882.492px;
+  z-index: 70;
+}
+
+.address-info {
+  font-size: 12px;
+  font-family: "Gotham";
+  color: rgb(0, 0, 0);
+  line-height: 2.25;
+  position: absolute;
+  left: 352.715px;
+  top: 1882.492px;
+  z-index: 69;
+}
+
+/* Box styling in footer */
+.Shape_29_copy {
+  background-color: rgb(241, 242, 242);
+  position: absolute;
+  left: -6px;
+  top: 1846px;
+  width: 1702px;
+  height: 43px;
+  z-index: 68;
+}
+
+
+/* ///////////////////////////////////
+/////////CONTENT STYLING //////////////
+////////////////////////////////////*/
+
+
+/* Black box in header with "History in the making" */
+.Shape_23_copy {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 301px;
+  top: 614px;
+  width: 1078px;
+  height: 175px;
+  z-index: 60;
+}
+
+.Layer_28 {
+  background-image: url("Layer 28.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  z-index: 59;
+}
+
+
+/* ///////////////////////////////////
+/////////EVENTS STYLING //////////////
+////////////////////////////////////*/
+
+
+.Shape_6_copy_9 {
+  background-image: url("../images/content/events/Shape 6 copy 9.png");
+  opacity: 0.4;
+  position: absolute;
+  left: 549px;
+  top: 1579px;
+  width: 297px;
+  height: 218px;
+  z-index: 32;
+}
+
+/* Styling for all Events */
+.Layer_7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  z-index: 27;
+}
+
+/* Background Styling for all Events */
+.Shape_15 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: -6px;
+  top: 1492px;
+  width: 1686px;
+  height: 356px;
+  z-index: 26;
+}
+
+
+/*///////////// 1st EVENT /////////////*
+
+
+/* Main text in Events on bottom of page */
+.this_month_s_most_anticipated_events {
+  font-size: 14.75px;
+  font-family: "Gotham";
+  color: rgb(40, 41, 48);
+  text-transform: uppercase;
+  line-height: 1.452;
+  text-align: left;
+  -moz-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  -webkit-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  -ms-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  position: absolute;
+  left: 702.692px;
+  top: 1537.792px;
+  z-index: 57;
+}
+
+/* Month text under 1st event in Events */
+.nov_copy_3 {
+  font-size: 21px;
+  font-family: "Interstate";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.65;
+  text-align: center;
+  -moz-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  -webkit-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  -ms-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  position: absolute;
+  left: 370.667px;
+  top: 1651.155px;
+  width: 42.119px;
+  height: 14.875px;
+  z-index: 56;
+}
+
+/* Day under 1st event in Events */
+._08 {
+  font-size: 27.663px;
+  font-family: "Interstate";
+  color: rgb(241, 242, 242);
+  text-transform: uppercase;
+  line-height: 1.102;
+  text-align: center;
+  -moz-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  -webkit-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  -ms-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  position: absolute;
+  left: 342.818px;
+  top: 1642.824px;
+  width: 26.066px;
+  height: 18px;
+  z-index: 55;
+}
+
+
+/* Box around Events Date in 1st event */
+.Shape_6_copy_18 {
+  background-color: rgb(40, 41, 48);
+  position: absolute;
+  left: 322px;
+  top: 1600px;
+  width: 97px;
+  height: 56px;
+  z-index: 54;
+}
+
+/* Image and image styling in 1st Event */
+.Shape_6_copy_19 {
+  background-image: url("../images/content/events/Shape 6 copy 19.png");
+  position: absolute;
+  left: 304px;
+  top: 1591px;
+  width: 148px;
+  height: 92px;
+  z-index: 53;
+}
+
+/* Image styling for 1st Event */
+.Shape_6_copy_4 {
+  background-color: rgb(151, 159, 164);
+  position: absolute;
+  left: 323px;
+  top: 1599px;
+  width: 239px;
+  height: 174px;
+  z-index: 30;
+}
+
+/* Image styling for 1st Event */
+.Shape_6_copy_8 {
+  background-image: url("../images/content/events/Shape 6 copy 8.png");
+  opacity: 0.4;
+  position: absolute;
+  left: 289px;
+  top: 1579px;
+  width: 306px;
+  height: 218px;
+  z-index: 29;
+}
+
+
+/*//////////// 2nd EVENT /////////////*
+
+
+/* Month under 2nd event in Events */
+.nov_copy_2 {
+  font-size: 21px;
+  font-family: "Interstate";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.65;
+  text-align: center;
+  -moz-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  -webkit-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  -ms-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  position: absolute;
+  left: 628.667px;
+  top: 1651.655px;
+  width: 42.119px;
+  height: 14.875px;
+  z-index: 52;
+}
+
+/* Day under 2nd event in Events */
+._16_copy {
+  font-size: 27.663px;
+  font-family: "Interstate";
+  color: rgb(241, 242, 242);
+  text-transform: uppercase;
+  line-height: 1.102;
+  text-align: center;
+  -moz-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  -webkit-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  -ms-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  position: absolute;
+  left: 599.644px;
+  top: 1642.824px;
+  width: 23.718px;
+  height: 18px;
+  z-index: 51;
+}
+
+/* Box around Events Date in 2nd event */
+.Shape_6_copy_16 {
+  background-color: rgb(40, 41, 48);
+  position: absolute;
+  left: 580px;
+  top: 1599px;
+  width: 97px;
+  height: 57px;
+  z-index: 50;
+}
+
+/* Image In 2nd Event */
+.Shape_6_copy_17 {
+  background-image: url("../images/content/events/Shape 6 copy 17.png");
+  position: absolute;
+  left: 562px;
+  top: 1591px;
+  width: 148px;
+  height: 92px;
+  z-index: 49;
+}
+
+/* Image styling for 2nd Event */
+.Shape_6_copy_5 {
+  background-color: rgb(151, 159, 164);
+  position: absolute;
+  left: 579px;
+  top: 1599px;
+  width: 240px;
+  height: 174px;
+  z-index: 33;
+}
+
+
+
+/*//////////// 3rd EVENT /////////////*
+
+
+/* Month in 3rd Event */
+.nov_copy {
+  font-size: 21px;
+  font-family: "Interstate";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.65;
+  text-align: center;
+  -moz-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  -webkit-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  -ms-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  position: absolute;
+  left: 884.667px;
+  top: 1652.155px;
+  width: 42.119px;
+  height: 14.875px;
+  z-index: 48;
+}
+
+/* Day in 3rd Events */
+._25 {
+  font-size: 27.663px;
+  font-family: "Interstate";
+  color: rgb(241, 242, 242);
+  text-transform: uppercase;
+  line-height: 1.102;
+  text-align: center;
+  -moz-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  -webkit-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  -ms-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  position: absolute;
+  left: 856.619px;
+  top: 1643.824px;
+  width: 24.669px;
+  height: 18px;
+  z-index: 47;
+}
+
+/* Box around date in 3rd Event */
+.Shape_6_copy_14 {
+  background-color: rgb(40, 41, 48);
+  position: absolute;
+  left: 836px;
+  top: 1599px;
+  width: 97px;
+  height: 56px;
+  z-index: 46;
+}
+
+/* Image in 3rd event */
+.Shape_6_copy_15 {
+  background-image: url("../images/content/events/Shape 6 copy 15.png");
+  position: absolute;
+  left: 809px;
+  top: 1590px;
+  width: 155px;
+  height: 92px;
+  z-index: 45;
+}
+
+/* Image styling in 3rd Event */
+.Shape_6_copy_6 {
+  background-color: rgb(151, 159, 164);
+  position: absolute;
+  left: 836px;
+  top: 1599px;
+  width: 239px;
+  height: 174px;
+  z-index: 36;
+}
+
+/* Image in 3rd Event */
+.Shape_6_copy_10 {
+  background-image: url("../images/content/events/Shape 6 copy 10.png");
+  opacity: 0.4;
+  position: absolute;
+  left: 806px;
+  top: 1579px;
+  width: 298px;
+  height: 218px;
+  z-index: 35;
+}
+
+
+/*//////////// 4th EVENT /////////////*
+
+
+/* Month in 4th Event */
+.nov {
+  font-size: 21px;
+  font-family: "Interstate";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.65;
+  text-align: center;
+  -moz-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  -webkit-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  -ms-transform: matrix( 0,-0.94784380886197,0.94784380886198,0,0,0);
+  position: absolute;
+  left: 1140.667px;
+  top: 1651.155px;
+  width: 42.119px;
+  height: 14.875px;
+  z-index: 44;
+}
+
+/* Day in 4th Event */
+._30 {
+  font-size: 27.663px;
+  font-family: "Interstate";
+  color: rgb(241, 242, 242);
+  text-transform: uppercase;
+  line-height: 1.102;
+  text-align: center;
+  -moz-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  -webkit-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  -ms-transform: matrix( 1.80745527118551,0,0,1.80745527118552,0,0);
+  position: absolute;
+  left: 1112.675px;
+  top: 1642.824px;
+  width: 25.78px;
+  height: 18px;
+  z-index: 43;
+}
+
+/* Box around date in 4th Event */
+.Shape_6_copy_12 {
+  background-color: rgb(40, 41, 48);
+  position: absolute;
+  left: 1092px;
+  top: 1599px;
+  width: 97px;
+  height: 56px;
+  z-index: 42;
+}
+
+/* Image in 4th Event */
+.Shape_6_copy_13 {
+  background-image: url("../images/content/events/Shape 6 copy 13.png");
+  position: absolute;
+  left: 1070px;
+  top: 1594px;
+  width: 164px;
+  height: 92px;
+  z-index: 41;
+}
+
+/* Image styling in 4th Event */
+.Shape_6_copy_7 {
+  background-color: rgb(151, 159, 164);
+  position: absolute;
+  left: 1093px;
+  top: 1599px;
+  width: 239px;
+  height: 174px;
+  z-index: 39;
+}
+
+/* Image styling in 4th Event */
+.Shape_6_copy_11 {
+  background-image: url("../images/content/events/Shape 6 copy 11.png");
+  opacity: 0.4;
+  position: absolute;
+  left: 1064px;
+  top: 1577px;
+  width: 305px;
+  height: 218px;
+  z-index: 38;
+}
+
+
+/* ///////////////////////////////////
+/////////HEADLINE STYLING //////////////
+////////////////////////////////////*/
+
+/* White bar in headline */
+.Shape_29 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 554px;
+  top: 614px;
+  width: 558px;
+  height: 6px;
+  z-index: 64;
+}
+
+/* Small text in Headline */
+.Lorem_ipsum_dolor_sit_amet_donec_luctus_vel_a {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.538;
+  text-align: center;
+  -moz-transform: matrix( 1.01160938968916,0,0,1.01160938968916,0,0);
+  -webkit-transform: matrix( 1.01160938968916,0,0,1.01160938968916,0,0);
+  -ms-transform: matrix( 1.01160938968916,0,0,1.01160938968916,0,0);
+  position: absolute;
+  left: 442.53px;
+  top: 790.014px;
+  width: 774.607px;
+  height: 122.269px;
+  z-index: 63;
+}
+
+/* Large text in Headline */
+.History_in_the_making_Portlands_newest_boutiqe {
+  font-size: 40px;
+  font-family: "Bodoni";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 0.88;
+  text-align: center;
+  position: absolute;
+  left: 362.01px;
+  top: 687.799px;
+  width: 480px;
+  height: 70px;
+  z-index: 62;
+}
+
+
+/* ///////////////////////////////////
+/////////STAY STYLING //////////////
+////////////////////////////////////*/
+
+
+/* Styling for Accomodations writing */
+.Lorem_ipsum_dolor_sit_amet_donec_luctus_vel_a {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(40, 41, 48);
+  line-height: 1.538;
+  text-align: left;
+  -moz-transform: matrix( 1.01160938968916,0,0,1.01160938968916,0,0);
+  -webkit-transform: matrix( 1.01160938968916,0,0,1.01160938968916,0,0);
+  -ms-transform: matrix( 1.01160938968916,0,0,1.01160938968916,0,0);
+  position: absolute;
+  left: 305.638px;
+  top: 1266.761px;
+  width: 374.224px;
+  height: 78.774px;
+  z-index: 23;
+}
+
+/* Accomodations heading */
+.accommodations {
+  font-size: 14.75px;
+  font-family: "Interstate";
+  color: rgb(40, 41, 48);
+  text-transform: uppercase;
+  line-height: 1.452;
+  text-align: left;
+  -moz-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  -webkit-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  -ms-transform: matrix( 1.15465438184655,-2.98732214852234e-16,-4.18225100793127e-16,1.15465438184655,0,0);
+  position: absolute;
+  left: 435.123px;
+  top: 1075.792px;
+  z-index: 22;
+}
+
+/* Accomudations styling */
+.Shape_13 {
+  background-image: url("../images/content/stay/Shape 13.png");
+  opacity: 0.302;
+  position: absolute;
+  left: 733px;
+  top: 1053px;
+  width: 647px;
+  height: 401px;
+  z-index: 20;
+}
+
+/* View rooms text in button */
+.View_Rooms {
+  font-size: 24px;
+  font-family: "Interstate";
+  color: rgb(226, 31, 37);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 0.89;
+  text-align: left;
+  -moz-transform: matrix( 0.70648009539263,0,0,0.70648009539263,0,0);
+  -webkit-transform: matrix( 0.70648009539263,0,0,0.70648009539263,0,0);
+  -ms-transform: matrix( 0.70648009539263,0,0,0.70648009539263,0,0);
+  position: absolute;
+  left: 427.165px;
+  top: 1406.792px;
+  z-index: 19;
+}
+
+/* Border styling for View Rooms button */
+.Shape_2_copy_2 {
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(226, 31, 37);
+  background-color: rgba(226, 31, 37, 0);
+  position: absolute;
+  left: 439px;
+  top: 1397px;
+  width: 115px;
+  height: 35px;
+  z-index: 18;
+}
+
+/* Large heading under Accomodations */
+.hollywood__meet_industrial_chic {
+  font-size: 24.383px;
+  font-family: "Gotham";
+  color: rgb(151, 159, 164);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.25;
+  text-align: left;
+  -moz-transform: matrix( 1.64046555968215,0,0,1.64046555968215,0,0);
+  -webkit-transform: matrix( 1.64046555968215,0,0,1.64046555968215,0,0);
+  -ms-transform: matrix( 1.64046555968215,0,0,1.64046555968215,0,0);
+  position: absolute;
+  left: 402.637px;
+  top: 1176.338px;
+  width: 182.602px;
+  height: 47.64px;
+  z-index: 17;
+}
+
+/* Background styling for Accomodations */
+.Shape_12 {
+  background-color: rgb(241, 242, 242);
+  position: absolute;
+  left: 0px;
+  top: 1000px;
+  width: 1680px;
+  height: 495px;
+  z-index: 16;
+}
+
+/* Image for Accomodations */
+.Shape_12_copy {
+  background-image: url("../images/content/stay/Shape 12 copy.png");
+  opacity: 0.302;
+  position: absolute;
+  left: 146px;
+  top: 1521px;
+  width: 1366px;
+  height: 106px;
+  z-index: 15;
+}
+
+
+/* ///////////////////////////////////
+/////////IMAGE SLIDES STYLING //////////////
+////////////////////////////////////*/
+
+
+/* Image Slides background */
+.Layer_34 {
+  background-image: url("../images/Images Slides/Layer 34.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1680px;
+  height: 956px;
+  z-index: 9;
+}
+
+
+/* ///////////////////////////////////
+/////////MAINIMage STYLING //////////////
+////////////////////////////////////*/
+
+
+/* Image for Background */
+.Layer_41 {
+  background-image: url("../images/Images Slides/MainIMage/Layer 41.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1680px;
+  height: 1116px;
+  z-index: 7;
+}
+
+/* Image for Background */
+.shutterstock_140369722 {
+  background-image: url("../images/Images Slides/MainIMage/shutterstock_140369722.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1680px;
+  height: 993px;
+  z-index: 4;
+}
+
+/* Styling for Background Images */
+.MainIMage {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1680px;
+  height: 787px;
+  z-index: 8;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* address info image in footer */
+#address-info-img {
+  padding-top: 2%;
+  padding-left: 30%;
+}
+
+/* contact info image in footer */
+#contact-info-img {
+  padding-top: 2%;
+  padding-right: 30%;
+
+}
+
+/* large black square in Booking Form */
+#booking-form-blk-square {
+  padding-left: 5%;
+}
+
+/* border for LETS GO btn in booking form */
+#lets_go_btn {
+  border: 2px solid red;
+}
+/* border for VIEW ROOMS btn in main content*/
+#view-rooms-btn {
+  border: 2px solid red;
+}
+
+.events{
+  position: relative;
+}
+
+.inner-image {
+  position: absolute;
+  /*top: 15px;*/
+  /*right: 30px;*/
+}
+
+
+
